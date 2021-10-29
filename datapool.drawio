@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T17:24:52.535Z" agent="5.0 (Windows)" etag="V3mytbkN1M_ZpIeNHYWd" version="15.6.2" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-10-29T17:25:39.877Z" agent="5.0 (Windows)" etag="2I19n7xpQ3m5S3jI2_DT" version="15.6.2" type="github" pages="23">
   <diagram id="aVIotj0lY1_cWIu0b1Hy" name="Page-1">
     <mxGraphModel dx="1102" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2275,6 +2275,9 @@
         </mxCell>
         <mxCell id="N_kouvvTq0kAfqpCiUNH-0" value="&lt;div&gt;Http Request&lt;/div&gt;&lt;div&gt;Response&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GVLPMPZwFt-s1nncbpq9-1">
           <mxGeometry x="200" y="158.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N_kouvvTq0kAfqpCiUNH-1" value="Tokenized" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GVLPMPZwFt-s1nncbpq9-1">
+          <mxGeometry x="200" y="210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

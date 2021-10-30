@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T02:34:46.317Z" agent="5.0 (Windows)" etag="7N_7g0w5TRqCrSdsF-O_" version="15.6.2" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-10-30T02:37:56.060Z" agent="5.0 (Windows)" etag="Ud6M7SUOOlVFLKqC7q9u" version="15.6.2" type="github" pages="23">
   <diagram id="aVIotj0lY1_cWIu0b1Hy" name="Page-1">
     <mxGraphModel dx="1102" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2158,22 +2158,22 @@
         <mxCell id="r_oFmb4jbVMRzsffvh-e-23" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillStyle=solid;fontSize=16;strokeColor=#36393d;fillColor=#cce5ff;align=left;rotation=0;opacity=40;" vertex="1" parent="97KWkVpRjeDlLE7_vyO5-1">
           <mxGeometry x="530" y="80" width="340" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="r_oFmb4jbVMRzsffvh-e-24" value="Login API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;fontFamily=Verdana;fontStyle=1" vertex="1" parent="97KWkVpRjeDlLE7_vyO5-1">
+        <mxCell id="r_oFmb4jbVMRzsffvh-e-24" value="Login API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;fontFamily=Verdana;fontStyle=1;sketch=1;" vertex="1" parent="97KWkVpRjeDlLE7_vyO5-1">
           <mxGeometry x="560" y="133" width="131" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="r_oFmb4jbVMRzsffvh-e-25" value="Purchase API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;gradientColor=#ffd966;strokeColor=#d6b656;fontFamily=Verdana;fontStyle=1" vertex="1" parent="97KWkVpRjeDlLE7_vyO5-1">
+        <mxCell id="r_oFmb4jbVMRzsffvh-e-25" value="Purchase API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#d6b656;fontFamily=Verdana;fontStyle=1;sketch=1;fillStyle=hachure;" vertex="1" parent="97KWkVpRjeDlLE7_vyO5-1">
           <mxGeometry x="561" y="229" width="130" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="r_oFmb4jbVMRzsffvh-e-26" value="PaymentGateway API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Verdana;fontStyle=1" vertex="1" parent="97KWkVpRjeDlLE7_vyO5-1">
+        <mxCell id="r_oFmb4jbVMRzsffvh-e-26" value="PaymentGateway API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;strokeColor=#6c8ebf;fontFamily=Verdana;fontStyle=1;sketch=1;" vertex="1" parent="97KWkVpRjeDlLE7_vyO5-1">
           <mxGeometry x="710" y="133" width="130" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="r_oFmb4jbVMRzsffvh-e-27" value="Membership API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontFamily=Verdana;fontStyle=1" vertex="1" parent="97KWkVpRjeDlLE7_vyO5-1">
+        <mxCell id="r_oFmb4jbVMRzsffvh-e-27" value="Membership API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Verdana;fontStyle=1;sketch=1;" vertex="1" parent="97KWkVpRjeDlLE7_vyO5-1">
           <mxGeometry x="560" y="328" width="131" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="r_oFmb4jbVMRzsffvh-e-28" value="NotificationAPI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Verdana;fontStyle=1;" vertex="1" parent="97KWkVpRjeDlLE7_vyO5-1">
+        <mxCell id="r_oFmb4jbVMRzsffvh-e-28" value="NotificationAPI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Verdana;fontStyle=1;sketch=1;" vertex="1" parent="97KWkVpRjeDlLE7_vyO5-1">
           <mxGeometry x="710" y="229" width="130" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="r_oFmb4jbVMRzsffvh-e-29" value="&lt;div&gt;Product Catalog&lt;/div&gt;&lt;div&gt;API&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontFamily=Verdana;fontStyle=1" vertex="1" parent="97KWkVpRjeDlLE7_vyO5-1">
+        <mxCell id="r_oFmb4jbVMRzsffvh-e-29" value="&lt;div&gt;Product Catalog&lt;/div&gt;&lt;div&gt;API&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#82b366;fontFamily=Verdana;fontStyle=1;sketch=1;" vertex="1" parent="97KWkVpRjeDlLE7_vyO5-1">
           <mxGeometry x="710" y="328" width="130" height="72" as="geometry" />
         </mxCell>
         <mxCell id="r_oFmb4jbVMRzsffvh-e-30" value="&amp;nbsp; HLI API" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fillStyle=solid;fontSize=16;fontColor=#000000;fontStyle=1" vertex="1" parent="97KWkVpRjeDlLE7_vyO5-1">
